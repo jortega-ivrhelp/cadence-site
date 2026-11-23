@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /audit/
+
+Host: https://cadence.ivrhelp.com
+Sitemap: https://cadence.ivrhelp.com/sitemap.xml
