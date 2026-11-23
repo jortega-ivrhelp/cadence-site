@@ -1,6 +1,16 @@
 User-Agent: *
 Allow: /
-Disallow: /audit/
+
+User-Agent: GPTBot
+User-Agent: CCBot
+User-Agent: Google-Extended
+User-Agent: ClaudeBot
+User-Agent: anthropic-ai
+User-Agent: Bytespider
+User-Agent: PerplexityBot
+User-Agent: Applebot-Extended
+User-Agent: meta-externalagent
+Disallow: /
 
 Host: https://cadence.ivrhelp.com
 Sitemap: https://cadence.ivrhelp.com/sitemap.xml
