@@ -12,5 +12,5 @@ User-Agent: Applebot-Extended
 User-Agent: meta-externalagent
 Disallow: /
 
-Host: https://cadence.ivrhelp.com
-Sitemap: https://cadence.ivrhelp.com/sitemap.xml
+Host: https://cxai.ivrhelp.com
+Sitemap: https://cxai.ivrhelp.com/sitemap.xml
