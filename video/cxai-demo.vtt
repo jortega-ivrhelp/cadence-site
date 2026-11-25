@@ -1,0 +1,103 @@
+WEBVTT
+
+00:00:00.600 --> 00:00:02.525
+This is CXAI by IVR Help.
+
+00:00:02.575 --> 00:00:06.317
+It works on the phone platform you already have.
+
+00:00:06.367 --> 00:00:14.848
+It answers routine calls with AI, shows exactly where callers give up, and checks every call for compliance.
+
+00:00:14.898 --> 00:00:19.430
+Here is how that looks in eight different contact centers.
+
+00:00:20.717 --> 00:00:24.675
+Summit Health Partners runs four clinics on Genesys Cloud.
+
+00:00:24.725 --> 00:00:34.626
+This morning, CXAI flagged that a third of callers in the Billing menu hang up between noon and two, most of them with simple balance questions.
+
+00:00:34.676 --> 00:00:40.914
+The practice manager approves an AI callback for that window, and the rule goes to Genesys.
+
+00:00:40.964 --> 00:00:43.747
+Nothing else in the phone system changes.
+
+00:00:45.507 --> 00:00:48.316
+Harborview Credit Union is on NICE CXone.
+
+00:00:48.366 --> 00:01:00.029
+Instead of reviewing one or two percent of calls, their compliance lead sees every call scored for identity verification, recording disclosure, and card data redaction.
+
+00:01:00.079 --> 00:01:05.537
+She filters to the flagged calls and builds an audit-ready report in one click.
+
+00:01:07.482 --> 00:01:10.099
+Crestline Mutual Insurance runs Five9.
+
+00:01:10.149 --> 00:01:16.557
+Routine requests like claim status and ID cards are answered by the AI agent, day and night.
+
+00:01:16.607 --> 00:01:24.698
+When a caller needs a person, CXAI hands them to the right team with the full context, so nobody repeats themselves.
+
+00:01:24.748 --> 00:01:29.752
+The counters at the top show calls resolved and staff hours saved today.
+
+00:01:31.281 --> 00:01:33.935
+Northwind Outfitters uses Zendesk Talk.
+
+00:01:33.985 --> 00:01:45.791
+Their support director opens the leader dashboard: calls the AI resolved, callers who no longer abandon, hours saved, and the trend over thirty days, across every channel.
+
+00:01:47.382 --> 00:01:50.710
+Bluewater Energy runs Cisco Webex Contact Center.
+
+00:01:50.760 --> 00:01:56.914
+CXAI spots a routing loop: callers in the Service menu keep landing back at the main menu.
+
+00:01:56.964 --> 00:02:03.532
+The operations manager pushes a loop-break rule, so callers reach a person instead of giving up.
+
+00:02:05.024 --> 00:02:07.087
+Seaside Resorts Group is on 8x8.
+
+00:02:07.137 --> 00:02:19.174
+The reservations supervisor uses the coaching view to compare each agent's handle time, first contact resolution, and compliance, then opens one agent's calls before their one-on-one.
+
+00:02:21.212 --> 00:02:25.199
+Lakewood County Services runs Google Cloud contact center AI.
+
+00:02:25.249 --> 00:02:35.922
+Their workforce planner sees calls by hour against the forecast and the agents scheduled, so it is clear which hours need more people and which the AI can absorb.
+
+00:02:37.515 --> 00:02:40.120
+ProComfort Home Services uses Nextiva.
+
+00:02:40.170 --> 00:02:42.425
+Connecting CXAI starts read-only.
+
+00:02:42.475 --> 00:02:47.875
+Their admin picks the platform, pastes one key, and CXAI tests the connection.
+
+00:02:47.925 --> 00:02:52.905
+Most teams finish in minutes, and nothing on the live call path changes.
+
+00:02:54.089 --> 00:02:56.748
+Want to see it on your own numbers?
+
+00:02:56.798 --> 00:03:00.232
+Start with a free fifteen minute pilot audit.
+
+00:03:00.282 --> 00:03:09.599
+Send one standard thirty day queue report, and we will show you your peak drop-off hours and a conservative ROI estimate.
+
+00:03:09.649 --> 00:03:11.070
+Book yours at cxai.
+
+00:03:11.120 --> 00:03:11.689
+ivrhelp.
+
+00:03:11.739 --> 00:03:11.999
+com.
